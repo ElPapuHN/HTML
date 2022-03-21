@@ -6,13 +6,11 @@
     width: auto;
     color: gray;
   }
-  
   /* The navbar */
   .topnav {
     overflow: hidden;
     background-color: rgb(39, 53, 170);
   }
-  
   /* Navbar links */
   .topnav a {
     float: left;
@@ -23,7 +21,6 @@
     font-size: 17px;
     background-color: rgb(128, 128, 128);
   }
-  
   .topnav a:hover {
     background-color: #ddd;
     color: black;
@@ -41,7 +38,7 @@ h1 {
     padding: 100px
 }
 
-p, h2 { 
+p, h2 {
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
